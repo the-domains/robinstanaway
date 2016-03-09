@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[robinstanaway]]></title>
+        <description><![CDATA[robinstanaway]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 09 Mar 2016 00:45:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[“For artist Robin Stanaway glass is more than a medium. It is a means for creating environments that are metaphysical and ephemeral….. the effect is mesmerizing and meditative, something to spend time watching and experiencing.” ]]></title>
+            <description><![CDATA[<article><h1>“For artist Robin Stanaway glass is more than a medium. It is a means for creating environments that are metaphysical and ephemeral….. the effect is mesmerizing and meditative, something to spend time watching and experiencing.” </h1><p>Harrisburg Patriot- News</p></article>]]></description>
+            <link>undefinedabout/index.html</link>
+            <guid isPermaLink="false">bbcbf8ad-db4e-4a0a-b329-e282bb4247df</guid>
+            <pubDate>Wed, 09 Mar 2016 00:45:14 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
