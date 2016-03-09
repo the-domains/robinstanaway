@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[robinstanaway]]></title>
         <description><![CDATA[robinstanaway]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/robinstanaway/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 09 Mar 2016 00:45:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 09 Mar 2016 00:47:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/robinstanaway/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[ROBIN STANAWAY]]></title>
+            <description><![CDATA[<article><h1>ROBIN STANAWAY</h1><p></p></article>]]></description>
+            <link>https://thegrid.ai/robinstanaway/robin-stanaway/index.html</link>
+            <guid isPermaLink="false">78a264ed-4231-45d5-abb0-e7da7543af48</guid>
+            <pubDate>Wed, 09 Mar 2016 00:46:45 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[“For artist Robin Stanaway glass is more than a medium. It is a means for creating environments that are metaphysical and ephemeral….. the effect is mesmerizing and meditative, something to spend time watching and experiencing.” ]]></title>
             <description><![CDATA[<article><h1>“For artist Robin Stanaway glass is more than a medium. It is a means for creating environments that are metaphysical and ephemeral….. the effect is mesmerizing and meditative, something to spend time watching and experiencing.” </h1><p>Harrisburg Patriot- News</p></article>]]></description>
-            <link>undefinedabout/index.html</link>
+            <link>https://thegrid.ai/robinstanaway/about/index.html</link>
             <guid isPermaLink="false">bbcbf8ad-db4e-4a0a-b329-e282bb4247df</guid>
             <pubDate>Wed, 09 Mar 2016 00:45:14 GMT</pubDate>
         </item>
