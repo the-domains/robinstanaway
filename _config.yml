@@ -1,0 +1,28 @@
+name: robinstanaway
+favicon: null
+layout_spectrum: 0.5470589252654463
+typography_spectrum: 0.5189888328313828
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.5094071333296597
+  lightness: 0.40019986708648503
+  saturation: 0.8552236824762076
+  rhythmicContrast: 0.3520445318426937
+purpose: []
