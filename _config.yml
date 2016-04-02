@@ -1,6 +1,6 @@
 name: robinstanaway
 favicon: null
-layout_spectrum: 0.00003
+layout_spectrum: 0.24331
 typography_spectrum: 0.60614
 title: The Art of Robin Stanaway
 cta:
@@ -23,7 +23,7 @@ color:
     - '#6B574B'
     - '#160600'
   brandStrength: 0
-  lightness: 0.5
-  saturation: 0.5
+  lightness: 0.25
+  saturation: 0
   rhythmicContrast: 0
 purpose: []
